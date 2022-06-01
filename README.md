@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Flutter development
-- 👯 I love mobile development (Android exactly) and allways try to follow the new trends/best practices 
+- 👯 I love mobile development (Android exactly) and always try to follow the new trends/best practices 
     to be up to date
 
 ### Connect with me:
